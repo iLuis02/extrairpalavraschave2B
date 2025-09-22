@@ -1,5 +1,5 @@
 
-export const PALAVRAS_RUINS = new Set([
+export const PALAVRAS_FEIAS = new Set([
     "que",
     "para",
     "com",
